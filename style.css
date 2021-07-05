@@ -28,7 +28,7 @@ body{
   font-weight: 400;
   color: white;
   position: absolute;
-  top: 160%;
+  top: 155%;
   left: 44%;
 }
 .try{
@@ -52,7 +52,7 @@ body{
   display: flex;
 }
 .same{
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .box2{
   box-shadow: 5px 1px 9px black ;
@@ -60,4 +60,7 @@ body{
   margin-left: 2%;
   border-radius: 10px;
   border: 0px solid;
+}
+.textcoxbazar{
+  color: green;
 }
